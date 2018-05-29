@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/obj/Debug/netcoreapp2.0/CopyConstructor.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/obj/Debug/netcoreapp2.0/CopyConstructor.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/obj/Debug/netcoreapp2.0/CopyConstructor.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/obj/Debug/netcoreapp2.0/CopyConstructor.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/bin/Debug/netcoreapp2.0/CopyConstructor.deps.json
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/bin/Debug/netcoreapp2.0/CopyConstructor.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/bin/Debug/netcoreapp2.0/CopyConstructor.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/bin/Debug/netcoreapp2.0/CopyConstructor.dll
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/bin/Debug/netcoreapp2.0/CopyConstructor.pdb
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/obj/Debug/netcoreapp2.0/CopyConstructor.dll
+/Users/koji/Repositories/Csharp/Prototype/CopyConstructor/obj/Debug/netcoreapp2.0/CopyConstructor.pdb
