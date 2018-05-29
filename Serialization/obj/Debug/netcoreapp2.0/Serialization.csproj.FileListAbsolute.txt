@@ -1,0 +1,10 @@
+/Users/koji/Repositories/Csharp/Prototype/Serialization/bin/Debug/netcoreapp2.0/Serialization.deps.json
+/Users/koji/Repositories/Csharp/Prototype/Serialization/bin/Debug/netcoreapp2.0/Serialization.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Prototype/Serialization/bin/Debug/netcoreapp2.0/Serialization.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Prototype/Serialization/bin/Debug/netcoreapp2.0/Serialization.dll
+/Users/koji/Repositories/Csharp/Prototype/Serialization/bin/Debug/netcoreapp2.0/Serialization.pdb
+/Users/koji/Repositories/Csharp/Prototype/Serialization/obj/Debug/netcoreapp2.0/Serialization.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Prototype/Serialization/obj/Debug/netcoreapp2.0/Serialization.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Prototype/Serialization/obj/Debug/netcoreapp2.0/Serialization.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Prototype/Serialization/obj/Debug/netcoreapp2.0/Serialization.dll
+/Users/koji/Repositories/Csharp/Prototype/Serialization/obj/Debug/netcoreapp2.0/Serialization.pdb
